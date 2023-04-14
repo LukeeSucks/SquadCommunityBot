@@ -6,7 +6,7 @@ The Squad Community Bot is a Discord bot designed to help educate and inform Squ
 
 The Squad Community Bot offers the following features:
 
-- Vehicle Stats (A highly detailed description of every vehicle in the game including hitbixes for armoured vehicles). 
+- Vehicle Stats (A highly detailed description of every vehicle in the game including hitboxes for armoured vehicles). 
 - Map Help (An image containing details of selected layer for example vehicles and their counts, spawn times, tickets, playing teams and the map with its capture points of available).
 - Faction Stats (Detailed information on your selected faction containing information such as roles, weapons, vehicles and an image of the faction itself).
 - Icon Legend (A sheet of all icons and what they are to allow new players to understand and mark correctly on the map).
@@ -14,7 +14,7 @@ The Squad Community Bot offers the following features:
 - Server Status (Search for your server from discord and find out player count, map, server status and layer (THIS IS WIP AND STILL BUGGY AT THIS TIME)).
 - Console Commands (Allow users to see all possible commands in game with descriptions of what they do, client or administrator).
 - Easy-to-use clean drop menus and simple commands
-- Consitantly being activel maintained with up to date and correct information.
+- Consitantly being actively maintained with up to date and correct information.
 - Completely free for use by all users
 
 ## Getting Started
