@@ -1,5 +1,9 @@
 # Squad Community Bot
 
+## Developers:
+- Lukee#0001
+- Willy Wanker#8539
+
 The Squad Community Bot is a Discord bot designed to help educate and inform Squad game players and the community. The bot offers a range of commands that provide detailed information about the game, including statistics on every vehicle, information on every map and its individual layers, statistics and information on each faction, and much more. The aim is to provide players with a more enjoyable and fun experience, whether they are new or experienced players.
 
 ## Features
