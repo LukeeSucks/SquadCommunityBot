@@ -10,7 +10,7 @@ SCB may only be used by Discord users who are at least 13 years of age or older.
 
 ## Ownership
 
-SCB is the property of its owner and creator, Lukee. The bot and its associated code, graphics, and other intellectual property are protected by applicable copyright, trademark, and other laws. You may not copy, modify, distribute, or create derivative works of SCB without the express written permission of its owner.
+SCB is the property of its owner and creator, Lukee. The bot and its associated code, graphics, and other intellectual property are protected by applicable copyright, trademark, and other laws. You may use any images or other data provided in this respatory for your own projects but not resold or profited from in any way. Credit is not required but will be respected of chosen to do so.
 
 ## Liability
 
