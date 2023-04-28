@@ -22,6 +22,8 @@ The Squad Community Bot offers the following features:
 - Consitantly being actively maintained with up to date and correct information.
 - Completely free for use by all users
 
+[Detailed Command List](https://github.com/LukeeSucks/SquadCommunityBot/blob/main/Detailed%20Command%20List.md#detailed-command-list-for-scb)
+
 ## Getting Started
 
 To use the Squad Community Bot, all you need is to add the bot to your Discord server. There are no prerequisites or installation requirements needed.
