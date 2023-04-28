@@ -32,7 +32,7 @@ This command, once called, will send a Discord drop menu with every faction in t
 
 ## Vehicle Statistics (/vehiclestats)
 This command will bring up a Discord embed with all the vehicle types and their corresponding calling command. For example:
-- Transport (/transstats)
+- Transport (/transportstats)
 - Main Battle Tanks (/mbtstats)
 - Infantry Fighting Vehicles (/ifvstats)
 Once one of these commands is called, it will send a Discord drop menu with each vehicle of that type. Once a user selects which vehicle they would like to view, it will send an embed. This embed will contain the following information of the vehicle:
