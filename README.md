@@ -26,7 +26,7 @@ The Squad Community Bot offers the following features:
 
 ## Getting Started
 
-To use the Squad Community Bot, all you need is to add the bot to your Discord server. There are no prerequisites or installation requirements needed.
+To use the Squad Community Bot, all you need is to [add the bot to your Discord server](https://discord.com/api/oauth2/authorize?client_id=950452989355774012&permissions=139586758720&scope=bot%20applications.commands). There are no prerequisites or installation requirements needed.
 
 ## Usage
 
