@@ -49,6 +49,6 @@ By using this bot you agree to the Terms And Conditions and Privacy Policy featu
 
 
 - **Email:** lukeesucks@gmail.com
-- **Discord:** Lukee#0001
+- **Discord:** @LukeeSucks
 - **Offical Discord Server:** https://discord.gg/uy9yBNzGwY
 - [**Bot Invite Link**](https://discord.com/api/oauth2/authorize?client_id=950452989355774012&permissions=139586758720&scope=bot%20applications.commands)
