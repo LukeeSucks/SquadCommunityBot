@@ -1,7 +1,7 @@
 # Squad Intelligence
 
 # !!!This is now out of date!!!
-Please go to [Squad Intelligence](SquadIntelligence.com) for more information.
+Please go to SquadIntelligence.com for more information.
 
 
 ## Developers:
