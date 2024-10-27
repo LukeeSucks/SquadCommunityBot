@@ -1,4 +1,8 @@
-# Squad Community Bot
+# Squad Intelligence
+
+# !!!This is now out of date!!!
+Please go to [Squad Intelligence](SquadIntelligence.com) for more information.
+
 
 ## Developers:
 - Lukee
